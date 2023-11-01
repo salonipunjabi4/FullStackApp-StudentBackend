@@ -4,3 +4,5 @@
 - Demonstrates:
     - GetMapping, PostMapping
     - Controller, Service and Repository later
+ 
+![Output](https://github.com/salonipunjabi4/FullStackApp-StudentBackend/blob/master/output.png?raw=true)
